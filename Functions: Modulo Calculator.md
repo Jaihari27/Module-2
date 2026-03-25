@@ -23,8 +23,8 @@ print("modulo is", result(a, b))
 
 ## Output
 <img width="827" height="378" alt="image" src="https://github.com/user-attachments/assets/344dbd5e-b771-47a5-b5b1-c6be909cc873" />
+
+
+
 ## Result
 The program to return two values modulo is successful.
-
-
-## Result
